@@ -1,0 +1,1 @@
+This is a project I worked on during the Insight Data Science Fellowship with URX focusing on predicting relevance between publisher and advertiser urls. For more details, please read the ‘report.ipynb’ file. 
